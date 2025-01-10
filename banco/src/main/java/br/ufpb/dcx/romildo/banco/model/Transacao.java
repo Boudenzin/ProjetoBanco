@@ -1,4 +1,4 @@
-package br.ufpb.dcx.romildo.banco;
+package br.ufpb.dcx.romildo.banco.model;
 
 import java.time.LocalDateTime;
 

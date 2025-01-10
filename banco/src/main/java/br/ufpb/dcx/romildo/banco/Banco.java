@@ -1,5 +1,7 @@
 package br.ufpb.dcx.romildo.banco;
 
+import br.ufpb.dcx.romildo.banco.model.Conta;
+
 import java.util.ArrayList;
 public class Banco {
 
